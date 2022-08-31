@@ -1,0 +1,30 @@
+body {
+    
+    background-color: #7FBCD2;
+    text-align: center;
+    padding-top: 20rem;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    color: #F7F6DC;
+    font-size: 25px;
+    background: #B1D7B4;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: #B1D7B4;
+    font-family: 'Shadows Into Light', cursive;
+  }
+  
+  .btn:hover {
+    background: #7FB77E;
+    text-decoration: none;
+  }
+
+  #texto {
+    margin-bottom: 50px;
+    font-size: 3rem;
+  }
